@@ -1,2 +1,8 @@
-# Mac crap
+vendor
 .DS_Store
+.idea
+node_modules
+*.zip
+package-lock.json
+composer.lock
+tmp
